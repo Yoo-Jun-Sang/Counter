@@ -1,0 +1,14 @@
+.Button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Button > button {
+  margin-right: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Button > button:hover {
+  color: rgb(0, 141, 218);;
+}
